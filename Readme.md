@@ -1,1 +1,1 @@
-This is the new Git Repo for WorldVision
+This is the better Git Repo for WorldVision
